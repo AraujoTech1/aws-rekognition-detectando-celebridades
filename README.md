@@ -25,7 +25,8 @@ Antes de rodar o código, você precisa ter os seguintes itens configurados:
 - **Python instalado**: O código foi desenvolvido em Python, então é necessário ter o Python instalado no seu sistema.
 - **Biblioteca boto3 instalada**: Instale a biblioteca boto3 executando:
 
-Terminal: Git bash
+Terminal:
+- Git bash
   "pip install boto3" 
 
 
