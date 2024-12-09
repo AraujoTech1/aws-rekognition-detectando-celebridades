@@ -27,6 +27,7 @@ Antes de rodar o código, você precisa ter os seguintes itens configurados:
 
 Terminal:
 - Git bash
+  
   "pip install boto3" 
 
 
