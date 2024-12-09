@@ -16,7 +16,7 @@ Este projeto utiliza o **AWS Rekognition** para detectar celebridades em imagens
 2. **Arquivo `detect_celebs.py`**: Contém o código que interage com o serviço AWS Rekognition, enviando a imagem e recebendo os resultados.
 3. **Arquivo `requirements.txt`**: Lista as dependências necessárias para rodar o projeto, incluindo a biblioteca boto3.
 
-## Pré-requisitos 🛠️
+## +Pré-requisitos 
 
 Antes de rodar o código, você precisa ter os seguintes itens configurados:
 
