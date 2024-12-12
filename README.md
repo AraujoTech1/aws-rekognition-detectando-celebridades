@@ -1,4 +1,5 @@
-# AWS Rekognition - Detectando Celebridades
+<h1 align="center">AWS Rekognition - Detectando Celebridades</h1>
+
 
 Este projeto utiliza o **AWS Rekognition** para detectar celebridades em imagens. A aplicação é construída em Python e utiliza a biblioteca **boto3** para interação com os serviços da AWS. A ideia principal é permitir que, ao enviar uma imagem para o serviço AWS Rekognition, a aplicação retorne os nomes das celebridades presentes na imagem.
 
