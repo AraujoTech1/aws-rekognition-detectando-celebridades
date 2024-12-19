@@ -7,9 +7,9 @@ Este projeto utiliza o **AWS Rekognition** para detectar celebridades em imagens
 
 ## Tecnologias Utilizadas
 
-- Python
-- **boto3**
-- **AWS Rekognition**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![boto3](https://img.shields.io/badge/boto3-4B77BE?logo=aws&logoColor=white)
+![AWS Rekognition](https://img.shields.io/badge/AWS_Rekognition-FF9900?logo=aws&logoColor=white)
 
 ## Como Funciona?
 
