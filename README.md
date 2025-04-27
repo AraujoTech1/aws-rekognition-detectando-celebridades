@@ -29,10 +29,9 @@ Obs:  **boto3** para interagir com a AWS.
 
 ## Tecnologias 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![boto3](https://img.shields.io/badge/boto3-4B77BE?style=for-the-badge&logo=aws&logoColor=white)
-![AWS Rekognition](https://img.shields.io/badge/AWS_Rekognition-FF9900?style=for-the-badge&logo=aws&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-4B4B4B?style=for-the-badge&logo=python&logoColor=A1C6FF)
+![boto3](https://img.shields.io/badge/boto3-4B4B4B?style=for-the-badge&logo=aws&logoColor=A1C6FF)
+![AWS Rekognition](https://img.shields.io/badge/AWS_Rekognition-4B4B4B?style=for-the-badge&logo=aws&logoColor=A1C6FF)
+![VS Code](https://img.shields.io/badge/VS_Code-4B4B4B?style=for-the-badge&logo=visualstudiocode&logoColor=A1C6FF)
 
 
